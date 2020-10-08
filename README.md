@@ -1,7 +1,7 @@
 # SFTP-Client
 
 
-This is a SFTP Client written in Python using Bimpy.It was part of a 24 hour coding challenge I made for myself.
+This is a SFTP Client written in Python using Bimpy. It was part of a 24 hour coding challenge I made for myself.
 So this client is not finished at all. It has a few bugs & lack of features.
 
 There will be updates in the near future.
